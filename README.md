@@ -186,6 +186,7 @@ Maintained by [Ian Alloway](https://github.com/ianalloway). Contributions welcom
 - [Odds Shark](https://www.oddsshark.com/) - Free odds comparison and historical line movement charts for major US sports.
 - [Action Network](https://www.actionnetwork.com/) - Odds comparison, public betting percentages, and sharp money indicators.
 - [SharpSide](https://sharpside.app/) - Bet tracking and analytics platform with CLV monitoring and bankroll visualization.
+- [Chase Analytics](https://chase-analytics.com/) - Free MLB, NFL, college football and WNBA research site with model projections compared to live sportsbook lines and graded results.
 
 ## DFS Tools
 
